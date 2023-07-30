@@ -1,0 +1,11 @@
+const String appName = 'Check Weather';
+const String cityName = 'Enter name of a city';
+const String hint = 'Enter city';
+const String wheatherInfo = "Weather Information";
+const String condition = "Condition";
+const String temprature = "Temperature";
+const String humidity = "Humidity";
+const String place = "Place";
+const String noDataError = "Enter a city to get weather data.";
+const String appId = 'b3257e61c452dcc761c19d2378555860';
+const String degreeCelsius = '°C';
